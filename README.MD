@@ -2,7 +2,9 @@
 
 ![Logo](img/home.png)
 
-Welcome to Jobster a webapp built  with Node.js and Express. It allows users to manage their daily job search. Project is [Live Here.](https://job-tracking-app-d1km.onrender.com/)
+Welcome to Jobster a webapp built  with Node.js and Express. It provides users with a platform to manage their daily job search. 
+
+Project is [Live Here.](https://job-tracking-app-d1km.onrender.com/)
 
 ## Setup
 
@@ -10,7 +12,7 @@ Welcome to Jobster a webapp built  with Node.js and Express. It allows users to 
 
     ```bash
     git clone https://github.com/Olusegun-Light/Job-Tracking-App
-    cd jobs-api
+    cd jobs-tracking-app
     ```
 
 2. Install dependencies:
@@ -31,7 +33,7 @@ Welcome to Jobster a webapp built  with Node.js and Express. It allows users to 
 4. Start the server:
 
     ```bash 
-    npm run dev
+    npm run dev 
     ```
 
 ## Features
