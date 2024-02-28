@@ -105,4 +105,4 @@ And lastly logout of the account.
 ![Logo](img/log-out.png)
 
 
-To know more about the backend, do well to check the [jobs api](https://github.com/Olusegun-Light/Jobs-API) 
+## To know more about the backend, do well to check the [jobs api](https://github.com/Olusegun-Light/Jobs-API) 
